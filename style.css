@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#album{
+    border-style: solid;
+    border-color: aqua;
+border: 1px;
+border-radius: 80px;
+padding: 5px;
+width: 450px;
+}
